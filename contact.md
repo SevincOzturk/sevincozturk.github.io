@@ -8,7 +8,7 @@ title: Contact
 
 📧 Email: sevinc.ozturk@glasgow.ac.uk
 
-🌍 Based at: [Glasgow University, School of Social and Political Sciences]  
+🌍 Glasgow University, School of Social and Political Sciences
 
 
 [Back to Home](index.md)
