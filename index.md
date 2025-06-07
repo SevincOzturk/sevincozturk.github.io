@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Sevinç Öztürk" width="200" style="border-radius: 50%; display: block; margin: auto;" />
+<img src="Sevinc_photo.jpeg" alt="Sevinç Öztürk" width="200" style="border-radius: 50%; display: block; margin: auto;" />
 
 # Sevinç Öztürk
 
