@@ -12,7 +12,6 @@ A paradox of ethnic politics? Minority language recognition and political trust 
 Assessing centralization: On Turkey’s rising personalist regime. (with Thomas Reilly). Southeast European and Black Sea Studies, 2022.
  [https://doi.org/10.1080/14683857.2022.2137899](https://doi.org/10.1080/14683857.2022.2137899)
 
-Is It All About A Rational Duel? A Critique Of Bargaining Model Of War. The Journal of Security Sciences (Güvenlik Bilimleri Dergisi), 9(2), 459-478.[https://doi.org/10.28956/gbd.830025](https://doi.org/10.28956/gbd.830025)
 
 **Books & Book Chapters**
 
