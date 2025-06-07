@@ -6,7 +6,7 @@ title: Home
 
 
 <!-- PROFILE SECTION -->
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 40px; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 80px; gap: 40px; flex-wrap: wrap;">
   <div>
     <img src="Sevinc_photo.jpeg" alt="Sevinç Öztürk" style="width: 180px; border-radius: 50%;">
   </div>
