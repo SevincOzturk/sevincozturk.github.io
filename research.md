@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-Journal Articles
+**Journal Articles**
 
 A paradox of ethnic politics? Minority language recognition and political trust in an authoritarian setting. (With Aykut Öztürk). Conflict Management and Peace Science, 2024.  https://doi.org/10.1177/07388942241292201
 
@@ -14,14 +14,16 @@ https://doi.org/10.1080/14683857.2022.2137899
 
 Is It All About A Rational Duel? A Critique Of Bargaining Model Of War. The Journal of Security Sciences (Güvenlik Bilimleri Dergisi), 9(2), 459-478.
 
-Books & Book Chapters
+**Books & Book Chapters**
 
 Foreign Assistance of Autocratic and Illiberal Regimes. 2023. Berlin: Peter Lang International Publishing. ISBN: 978-3-631-88541-3.
 
-Under Review 
+**Under Review**
+
 Hostility and Avoidance: Refugee Preferences in the Face of Local Attitudes and Politics. (with Sefa Seçen and Aykut Öztürk). https://doi.org/10.31235/osf.io/mjgzhv 1
 
-In Progress
+**In Progress**
+
 Authoritarian Personality and Secessionist Demands: Evidence from Scotland, Catalonia and Eastern Turkey. (with Aykut Öztürk).
 
 Repression Across Borders: Transnational Control and Political Attitudes among Uyghurs. (with Murat Yılmaz).
