@@ -1,14 +1,8 @@
-<!-- HEADER MENU -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; padding: 10px; border-bottom: 1px solid #ccc;">
-  <div style="font-size: 24px; font-weight: bold;">Dr. Sevinç Öztürk</div>
-  <div style="font-size: 16px;">
-    <a href="index.html" style="margin: 0 12px; text-decoration: none; color: #004466;">Home</a>
-    <a href="research.html" style="margin: 0 12px; text-decoration: none; color: #004466;">Research</a>
-    <a href="teaching.html" style="margin: 0 12px; text-decoration: none; color: #004466;">Teaching</a>
-    <a href="cv.html" style="margin: 0 12px; text-decoration: none; color: #004466;">CV</a>
-    <a href="contact.html" style="margin: 0 12px; text-decoration: none; color: #004466;">Contact</a>
-  </div>
-</div>
+---
+layout: default
+title: Home
+---
+
 
 <!-- PROFILE SECTION -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 40px; gap: 40px; flex-wrap: wrap;">
