@@ -1,3 +1,4 @@
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [CV](cv.md) | [Contact](contact.md)
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 40px;">
 
