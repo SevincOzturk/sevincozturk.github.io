@@ -6,8 +6,8 @@ title: Contact
 
 # Contact
 
-📧 Email: your.email@example.com  
-🌍 Based at: [Your University]  
+📧 Email: sevinc.ozturk@glasgow.ac.uk 
+🌍 Based at: [Glasgow University]  
 🔗 [GitHub](https://github.com/SevincOzturk)
 
 [Back to Home](index.md)
