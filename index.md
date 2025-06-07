@@ -4,12 +4,13 @@ title: Home
 ---
 
 
+
 <!-- PROFILE SECTION -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 40px; gap: 40px; flex-wrap: wrap;">
   <div>
     <img src="Sevinc_photo.jpeg" alt="Sevinç Öztürk" style="width: 180px; border-radius: 50%;">
   </div>
-  <div style="max-width: 500px; text-align: left; font-size: 18px;">
+<div style="max-width: 500px; text-align: justify; font-size: 18px; font-family: 'Helvetica Neue', sans-serif; line-height: 1.6;">
     <p> Welcome! I am a visiting fellow at the University of Glasgow and an Assistant Professor of Political Science and International Relations at Çukurova University.</p> 
       
 <p>My research mainly focuses on authoritarian politics, political behavior and attitudes of minorities, and Turkish politics. I conduct experiments and observational analysis.  My work has been published in Conflict Management and Peace Science, and Southeast European and Black Sea Studies.</p>
