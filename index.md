@@ -1,4 +1,11 @@
-[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [CV](cv.md) | [Contact](contact.md)
+<p style="text-align: center; margin-top: 20px; font-size: 16px;">
+  <a href="index.md" style="margin: 0 12px; text-decoration: none; color: #004466;">Home</a>
+  <a href="research.md" style="margin: 0 12px; text-decoration: none; color: #004466;">Research</a>
+  <a href="teaching.md" style="margin: 0 12px; text-decoration: none; color: #004466;">Teaching</a>
+  <a href="cv.md" style="margin: 0 12px; text-decoration: none; color: #004466;">CV</a>
+  <a href="contact.md" style="margin: 0 12px; text-decoration: none; color: #004466;">Contact</a>
+</p>
+
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 40px;">
 
