@@ -7,7 +7,7 @@ title: Research
 
 **Journal Articles**
 
-A paradox of ethnic politics? Minority language recognition and political trust in an authoritarian setting. (with Aykut Öztürk). Conflict Management and Peace Science, 2024. [DOI](https://doi.org/10.1177/07388942241292201)
+A paradox of ethnic politics? Minority language recognition and political trust in an authoritarian setting. (with Aykut Öztürk). Conflict Management and Peace Science, 2024. [https://doi.org/10.1177/07388942241292201](https://doi.org/10.1177/07388942241292201)
 
 Assessing centralization: On Turkey’s rising personalist regime. (with Thomas Reilly). Southeast European and Black Sea Studies, 2022.
 https://doi.org/10.1080/14683857.2022.2137899
