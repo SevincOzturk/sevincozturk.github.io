@@ -1,9 +1,17 @@
-<img src="Sevinc_photo.jpeg" alt="Sevinç Öztürk" width="200" style="border-radius: 50%; display: block; margin: auto;" />
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 40px;">
 
-# Sevinç Öztürk
+  <img src="profile.jpg" alt="Sevinç Öztürk" width="160" style="border-radius: 50%;">
 
-I am a visiting fellow at the University of Glasgow and an assistant professor of political science and international relations at Çukurova University. I received my PhD in Political Science from Rutgers University.
+  <div style="text-align: center;">
+    <h1>Sevinç Öztürk</h1>
+    <p style="max-width: 400px; margin: 0 auto;">
+      I am a visiting fellow at the University of Glasgow and an assistant professor of political science and international relations at Çukurova University. I received my PhD in Political Science from Rutgers University.
 My research mainly focuses on authoritarian politics, political behavior and attitudes of minorities, and Turkish politics. I conduct experiments and observational analysis.  
+    </p>
+  </div>
+
+</div>
+
 
 ## Menu
 
