@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body style="font-family: sans-serif; max-width: 900px; margin: auto; padding: 20px;">
+
+  <!-- HEADER MENU -->
+  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-bottom: 30px;">
+    <div style="font-size: 22px; font-weight: bold;">Sevinç Öztürk</div>
+    <div>
+      <a href="index.html" style="margin: 0 10px; text-decoration: none; color: #004466;">Home</a>
+      <a href="research.html" style="margin: 0 10px; text-decoration: none; color: #004466;">Research</a>
+      <a href="teaching.html" style="margin: 0 10px; text-decoration: none; color: #004466;">Teaching</a>
+      <a href="cv.html" style="margin: 0 10px; text-decoration: none; color: #004466;">CV</a>
+      <a href="contact.html" style="margin: 0 10px; text-decoration: none; color: #004466;">Contact</a>
+    </div>
+  </div>
+
+  <!-- PAGE CONTENT -->
+  {{ content }}
+
+</body>
+</html>
