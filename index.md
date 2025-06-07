@@ -1,5 +1,6 @@
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 40px;">
+
   <img src="Sevinc_photo.jpeg" alt="Sevinç Öztürk" width="160" style="border-radius: 50%;">
 
   <div style="text-align: center;">
