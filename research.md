@@ -27,7 +27,7 @@ Authoritarian Personality and Secessionist Demands: Evidence from Scotland, Cata
 
 Repression Across Borders: Transnational Control and Political Attitudes among Uyghurs. (with Murat Yılmaz).
 
-Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries.(with Sefa Seçen).
+Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen).
 
 Big Trouble in Little Institutions: Diversionary Actions in Turkey and China. (with Thomas Reilly).
 
