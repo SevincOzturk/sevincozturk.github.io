@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; padding: 10px; border-bottom: 1px solid #ccc;">
-  <div style="font-size: 24px; font-weight: bold;">Dr. Sevinç Öztürk</div>
+  <div style="font-size: 24px; font-weight: bold;">Sevinç Öztürk</div>
   <div style="font-size: 16px;">
     <a href="index.md" style="margin: 0 12px; text-decoration: none; color: #004466;">Home</a>
     <a href="research.md" style="margin: 0 12px; text-decoration: none; color: #004466;">Research</a>
