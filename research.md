@@ -19,7 +19,7 @@ Foreign Assistance of Autocratic and Illiberal Regimes. 2023. Berlin: Peter Lang
 
 **Under Review**
 
-Hostility and Avoidance: Refugee Preferences in the Face of Local Attitudes and Politics. (with Sefa Seçen and Aykut Öztürk). https://doi.org/10.31235/osf.io/mjgzhv 1
+Hostility and Avoidance: Refugee Preferences in the Face of Local Attitudes and Politics. (with Sefa Seçen and Aykut Öztürk).  [https://doi.org/10.31235/osf.io/mjgzhv 1](https://doi.org/10.31235/osf.io/mjgzh_v1)
 
 **In Progress**
 
