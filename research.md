@@ -25,8 +25,6 @@ Hostility and Avoidance: Refugee Preferences in the Face of Local Attitudes and 
 
 Authoritarian Personality and Secessionist Demands: Evidence from Scotland, Catalonia and Eastern Turkey. (with Aykut Öztürk).
 
-Repression Across Borders: Transnational Control and Political Attitudes among Uyghurs. (with Murat Yılmaz).
-
 Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen).
 
 Big Trouble in Little Institutions: Diversionary Actions in Turkey and China. (with Thomas Reilly).
