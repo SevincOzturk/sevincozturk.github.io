@@ -1,2 +1,6 @@
 theme: minima
 title: Sevinç Öztürk
+
+plugins:
+  - jekyll-sitemap
+
