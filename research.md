@@ -19,13 +19,13 @@ Foreign Assistance of Autocratic and Illiberal Regimes. 2023. Berlin: Peter Lang
 
 **Under Review**
 
-Hostility and Avoidance: Refugee Preferences in the Face of Local Attitudes and Politics. (with Sefa Seçen and Aykut Öztürk).  [https://doi.org/10.31235/osf.io/mjgzhv 1](https://doi.org/10.31235/osf.io/mjgzh_v1)
+Hostility and Avoidance: Refugee Preferences in the Face of Local Attitudes and Politics. (with Sefa Seçen and Aykut Öztürk) (R & R).  [https://doi.org/10.31235/osf.io/mjgzhv 1](https://doi.org/10.31235/osf.io/mjgzh_v1)
+
+Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen).
 
 **In Progress**
 
 Authoritarian Personality and Secessionist Demands: Evidence from Scotland, Catalonia and Eastern Turkey. (with Aykut Öztürk).
-
-Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen).
 
 Big Trouble in Little Institutions: Diversionary Actions in Turkey and China. (with Thomas Reilly).
 
