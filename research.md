@@ -22,6 +22,7 @@ Assessing centralization: On Turkey’s rising personalist regime. (with Thomas 
 Foreign Assistance of Autocratic and Illiberal Regimes. 2023. Berlin: Peter Lang International Publishing. ISBN: 978-3-631-88541-3.
 
 **In Progress**
+
 Support for Peace Process: A Conjoint Experiment. (with Aykut Öztürk).
 
 Authoritarian Personality and Secessionist and Autobomist Demands: Evidence from Scotland, Catalonia and Eastern Turkey.
