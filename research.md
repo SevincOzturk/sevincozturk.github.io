@@ -7,7 +7,7 @@ title: Research
 
 **Journal Articles**
 
-Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen). Journal of Ethic and Migration Studies. Accepted for publication. 
+Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen). Journal of Ethnic and Migration Studies. Accepted for publication. 
 
 Fearing Not Belonging: How Local Attitudes and Policies Shape Refugees’ Destination Preferences. (with Sefa Seçen and Aykut Öztürk). Political Behavior, 2026.  [https://doi.org/10.1007/s11109-026-10180-5](https://doi.org/10.1177/07388942241292201)
 
