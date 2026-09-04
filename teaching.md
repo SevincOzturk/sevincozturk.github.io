@@ -10,9 +10,9 @@ title: Teaching
 I teach several courses in undergraduate and Master's level in various institutions.
 
 
-- Methods in Political Science (SPSS) (TA for recitation sections, at Rutgers University, USA in 2016,2017,2018)
+- Methods in Political Science (SPSS) (TA for recitation sections, at Rutgers University, USA)
 
-- International Organizations (Online at Rutgers University, USA in 2016, 2017, 2018, 2019, 2020 and in person at Bitlis Eren University and Çukurova University)
+- International Organizations (Online at Rutgers University, USA and in person at Bitlis Eren University and Çukurova University)
 
 - Politics of Foreign Aid (in person at Rutgers University, USA in 2016, 2017, 2018, 2019)
 
@@ -28,7 +28,15 @@ I teach several courses in undergraduate and Master's level in various instituti
 
 - History of Diplomacy (Online at Bitlis Eren University)
 
-- Introduction to Quantitative Methods in Social Science (SPSS) (in person at Çukurova
+- Introduction to Quantitative Methods in Social Science (in person at Çukurova
 University, Master’s Level)
+
+- International Politics (In person at Çukurova University)
+
+- Research Design in Social Science (in person at Çukurova University, Master’s Level)
+  
+- Research Design in Social Science (in person at Çukurova University, Undergraduate Level)
+  
+- Political Institutions (in person at Çukurova University, Undergraduate Level)
 
 [Back to Home](index.md)
