@@ -13,7 +13,7 @@ title: Home
 <div style="max-width: 500px; text-align: justify;"> <p> Welcome! </p>  
   <p> I am a visiting fellow at the University of Glasgow and an Assistant Professor of Political Science and International Relations at Çukurova University.</p> 
       
-<p>My research mainly focuses on authoritarian politics, political behavior and attitudes of minorities, and Turkish politics. I conduct experiments and observational analysis.  My work has been published in <em>Conflict Management and Peace Science</em>, and <em>Southeast European and Black Sea Studies</em>.</p>
+<p>My research mainly focuses on authoritarian politics, political behavior and attitudes of minorities, and Turkish politics. I conduct experiments and observational analysis.  My work has been published in <em>Political Behavior</em> <em>Conflict Management and Peace Science</em>, and <em>Southeast European and Black Sea Studies</em>.</p>
 
 <p>I received my PhD in Political Science from Rutgers University. I also hold an M.A. in Political Science from Rutgers University and in International Relations from the Turkish War Academia, and a B.A. in International Relations from Ege University. 
   </p>
