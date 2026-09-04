@@ -6,9 +6,9 @@ title: Contact
 
 # Contact
 
-📧 Email: [sevinc.ozturk@glasgow.ac.uk](mailto:sevinc.ozturk@glasgow.ac.uk)
+📧 Email: [sevincozzturk@gmail.com](mailto:sevincozzturk@gmail.com)
 
-🌍 Glasgow University, School of Social and Political Sciences
+🌍 Cukurova University, Department of Political Science and International Relations
 
 
 [Back to Home](index.md)
