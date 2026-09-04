@@ -23,9 +23,9 @@ Foreign Assistance of Autocratic and Illiberal Regimes. 2023. Berlin: Peter Lang
 
 **In Progress**
 
-Support for Peace Process: A Conjoint Experiment. (with Aykut Öztürk).
-
 Authoritarian Personality and Secessionist and Autobomist Demands: Evidence from Scotland, Catalonia and Eastern Turkey.
+
+Support for Peace Process: A Conjoint Experiment. (with Aykut Öztürk).
 
 Big Trouble in Little Institutions: Diversionary Actions in Turkey and China. (with Thomas Reilly).
 
