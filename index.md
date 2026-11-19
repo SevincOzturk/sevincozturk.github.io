@@ -13,9 +13,9 @@ title: Home
 <div style="max-width: 500px; text-align: justify;"> <p> Welcome! </p>  
   <p> I am an Assistant Professor of Political Science and International Relations at Çukurova University.</p> 
       
-<p>My research mainly focuses on authoritarian politics, political behavior and attitudes of minorities, and Turkish politics. I conduct experiments and observational analysis.  My work has been published in <em>Political Behavior</em>, <em>Conflict Management and Peace Science</em>, and <em>Southeast European and Black Sea Studies</em>.</p>
+<p>My research mainly focuses on authoritarian politics, political behavior and attitudes of minorities, and Turkish politics. I conduct experiments and observational analyses.  My work has been published in <em>Political Behavior</em>, <em>Journal of Ethnic and migration Studies</em>, <em>Conflict Management and Peace Science</em>, and <em>Southeast European and Black Sea Studies</em>.</p>
 
-<p> I was a visiting fellow at Glasgow University at School of Social and Political Sciences in 2025. I received my PhD in Political Science from Rutgers University. I also hold an M.A. in Political Science from Rutgers University and in International Relations from the Turkish War Academia, and a B.A. in International Relations from Ege University. 
+<p> I was a visiting fellow at Glasgow University at the School of Social and Political Sciences in 2025. I received my PhD in Political Science from Rutgers University. I also hold an M.A. in Political Science from Rutgers University, an M.A. in International Relations from the Turkish War Colleges, and a B.A. in International Relations from Ege University. 
   </p>
   </div>
 </div>
