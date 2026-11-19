@@ -7,7 +7,7 @@ title: Research
 
 **Journal Articles**
 
-Syrian Refugees and Political Socialization: Pathways to Partisanship in Host Countries. (with Sefa Seçen). Journal of Ethnic and Migration Studies. Accepted for publication. 
+Social engagement and political attitudes of Syrian refugees in Turkey and Germany. (with Sefa Seçen). Journal of Ethnic and Migration Studies. 2026. [https://doi.org/10.1080/1369183X.2026.2732340)
 
 Fearing Not Belonging: How Local Attitudes and Policies Shape Refugees’ Destination Preferences. (with Sefa Seçen and Aykut Öztürk). Political Behavior, 2026.  [https://doi.org/10.1007/s11109-026-10180-5](https://doi.org/10.1177/07388942241292201)
 
@@ -23,9 +23,11 @@ Foreign Assistance of Autocratic and Illiberal Regimes. 2023. Berlin: Peter Lang
 
 **In Progress**
 
-Authoritarian Personality and Secessionist and Autobomist Demands: Evidence from Scotland, Catalonia and Eastern Turkey.
+Authoritarian Personality and Demand for Territorial Self-Rule: Evidence from Scotland, Catalonia and Eastern Turkey.
 
 Support for Peace Process: A Conjoint Experiment. (with Aykut Öztürk).
+
+Emigration Attitudes of US-born Young Adults (with Sefa Secen & Ramazan Kilinc & Zeynep Sahin Mencutek & Osman Bahadır Dincer)
 
 Big Trouble in Little Institutions: Diversionary Actions in Turkey and China. (with Thomas Reilly).
 
