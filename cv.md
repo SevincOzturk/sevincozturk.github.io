@@ -7,6 +7,6 @@ title: CV
 
 # Curriculum Vitae
 
-[Download CV (PDF)](CV_Sozturk-40.pdf)
+[Download CV (PDF)](CV_SevincOzturk.pdf)
 
 [Back to Home](index.md)
